@@ -18,7 +18,7 @@ export default function Home() {
           Welcome to 4Dragon Dumpling, your go-to destination for mouthwatering dumplings and noodle delights! 
           </p>
           <p>Indulge in our extensive menu from the comfort of your home with our convenient delivery service. From flavorful potstickers to sumptuous noodles and heartwarming soups, we bring the taste of authentic Asian cuisine right to your doorstep. </p>
-          <p>Elevate your dining experience with our carefully crafted dishes, ensuring every bite is a delight. Order online now and treat yourself to a feast of flavors that will transport you to culinary bliss. It's not just a meal; it's an experience delivered to your door!</p>
+          <p>Elevate your dining experience with our carefully crafted dishes, ensuring every bite is a delight. Order online now and treat yourself to a feast of flavors that will transport you to culinary bliss. It is not just a meal; it is an experience delivered to your door!</p>
         </div>
       </section>
       <section className="text-center my-8" id="contact">
