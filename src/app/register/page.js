@@ -56,6 +56,7 @@ export default function RegisterPage() {
         <button type="submit" disabled={creatingUser}>
           Register
         </button>
+        //error here
         <div className="my-4 text-center text-gray-500">
           or login with provider
         </div>
